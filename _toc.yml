@@ -2,3 +2,5 @@ format: jb-book
 root: index
 chapters:
   - file: lecture_16_example
+  - file: projects/project_1
+    title: Project 1 – NYC MTA Subway Ridership
